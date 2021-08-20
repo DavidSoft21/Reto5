@@ -1,0 +1,12 @@
+view\Gui$1.class
+modelo\dao\RequerimientoDao_1.class
+modelo\dao\RequerimientoDao_3.class
+co\edu\utp\misiontic2022\c2\reto004\App.class
+modelo\vo\Requerimiento_2.class
+util\JDBCUtilities.class
+view\Gui.class
+view\ViewRequerimientos.class
+modelo\vo\Requerimiento_1.class
+modelo\dao\RequerimientoDao_2.class
+controller\ControllerRequerimientos.class
+modelo\vo\Requerimiento_3.class
